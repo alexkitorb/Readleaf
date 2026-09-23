@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Readleaf
+Comment=Read rich text documents
+Exec=readleaf %F
+Icon=io.github.readleaf.Reader
+Terminal=false
+Type=Application
+Categories=Office;Viewer;
+MimeType=application/rtf;text/rtf;
+Keywords=RTF;Rich Text;Reader;Document;
+StartupNotify=true
+
